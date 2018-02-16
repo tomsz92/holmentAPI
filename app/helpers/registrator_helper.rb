@@ -1,0 +1,2 @@
+module RegistratorHelper
+end

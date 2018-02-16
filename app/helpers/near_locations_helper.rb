@@ -1,0 +1,2 @@
+module NearLocationsHelper
+end
